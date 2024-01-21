@@ -1,0 +1,17 @@
+.app {
+  background-color: #789461 !important;
+  height: 100%;
+  min-height: 100vh;
+}
+
+.floatingActionButton {
+  color: #000 !important;
+  background-color: #dbe7c9 !important;
+}
+
+.header {
+  color: #dbe7c9;
+  text-align: center;
+  padding: 0.6em 0;
+  font-size: 2.5em;
+}
